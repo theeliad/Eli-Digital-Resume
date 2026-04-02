@@ -25,6 +25,7 @@ SOCIAL_MEDIA = {
 }
 PROJECTS = {
     "🏆 Geospatial Weather App -  You can search on an U.S Map, NWS weather stations and with just one click show the forecast.": "https://theeliad-geospatial-weather-app-main-rmv7ho.streamlit.app/",
+    "📡 Geospatial Watches and Warnings App - Real-time monitoring of NWS watches, warnings, and advisories across the United States.": "https://geospatial-watches-and-warnings.streamlit.app/",
 }
 
 
