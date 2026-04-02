@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Eli Policape"
 PAGE_ICON = ":wave:"
 NAME = "Eli Policape"
 DESCRIPTION = """
-Data Analyst & Data Scientist who thoroughly enjoys researching, gathering data, creating graphs, interactive maps and dashboards.
+Geospatial Data Scientist | Data Management Specialist | Data Analyst |
 """
 EMAIL = "policapee@gmail.com"
 SOCIAL_MEDIA = {
